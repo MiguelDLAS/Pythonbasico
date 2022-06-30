@@ -9,7 +9,7 @@ def run():
        # if i == 5678:
       #      break
 
-texto = input('Escribe un texto: ')
+ texto = input('Escribe un texto: ')
 for letra in texto:
     if letra == 'o':
         break
